@@ -1,4 +1,4 @@
-# ♊ Gemini AI Code Assistant
+# ♊ AI Code Assistant
 
 A beginner-friendly web application built with **Python** and **Streamlit** that uses **Google's Gemini API** to instantly generate code snippets from natural language descriptions.
 
